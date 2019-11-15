@@ -6,6 +6,8 @@ Netlify build script and redirects for deploying a static WordPress site from Sh
 
 # How to
 
+tl;dr: You have to set up both a Netlify and a Shifter site. They interact and conenct by using a webhook. These steps are an overview of both.
+
 ## On Netlify
 1. Deploy this to Netlify
 1. Navigate to deploy settings, add a build hook
