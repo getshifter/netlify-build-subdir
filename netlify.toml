@@ -8,3 +8,8 @@
   from    = "/blog/*"
   to      = "/:splat"
   status  = 200
+
+[[redirects]]
+  from    = "/blog"
+  to      = "/"
+  status  = 200  
